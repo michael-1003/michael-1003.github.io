@@ -1,6 +1,6 @@
 ---
 title: "Test"
-permalink: /Test/
+permalink: /Test
 ---
 
 # Hello World!
