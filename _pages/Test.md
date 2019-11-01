@@ -1,6 +1,7 @@
 ---
-title: "Test"
-permalink: /Test
+title: "Intro"
+permalink: /Intro
 ---
 
 # Hello World!
+Hello World!
