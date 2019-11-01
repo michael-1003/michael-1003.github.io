@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael KIM (Donggun KIM)"
+  name             : "Michael KIM\n(Donggun KIM)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : 
